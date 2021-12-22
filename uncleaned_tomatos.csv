@@ -1,0 +1,201 @@
+,names,tomatometer,number_of_reviews,movie_info,audience_score,audience_count,critics_count
+0,"
+            It Happened One Night (1934)", 99%,98,"1934, Romance/Comedy, 1h 45m",93,"25,000+ Ratings",98 Reviews
+1,"
+            The Wizard of Oz (1939)", 98%,160,"1939, Musical/Kids & family, 1h 41m",89,"250,000+ Ratings",160 Reviews
+2,"
+            Citizen Kane (1941)", 99%,120,"1941, Drama, 1h 59m",90,"100,000+ Ratings",120 Reviews
+3,"
+            Modern Times (1936)", 98%,109,"1936, Comedy, 1h 29m",95,"25,000+ Ratings",109 Reviews
+4,"
+            Black Panther (2018)", 96%,525,"2018, Adventure/Action, 2h 14m",79,"50,000+ Ratings",525 Reviews
+5,"
+            Parasite (Gisaengchung) (2019)", 98%,464,"2019, Comedy/Mystery & thriller, 2h 12m",90,"5,000+ Verified Ratings",464 Reviews
+6,"
+            Avengers: Endgame (2019)", 94%,547,"2019, Sci-fi/Adventure, 3h 1m",90,"50,000+ Ratings",547 Reviews
+7,"
+            Casablanca (1942)", 99%,124,"1942, Drama, 1h 42m",95,"250,000+ Ratings",124 Reviews
+8,"
+            Knives Out (2019)", 97%,467,"2019, Crime/Comedy, 2h 10m",92,"25,000+ Verified Ratings",467 Reviews
+9,"
+            Us (2019)", 93%,553,"2019, Horror/Mystery & thriller, 1h 56m",59,"10,000+ Ratings",553 Reviews
+10,"
+            Toy Story 4 (2019)", 97%,453,"2019, Comedy/Kids & family, 1h 40m",94,"50,000+ Verified Ratings",453 Reviews
+11,"
+            Lady Bird (2017)", 99%,398,"2017, Comedy/Drama, 1h 34m",79,"10,000+ Ratings",398 Reviews
+12,"
+            Mission: Impossible - Fallout (2018)", 97%,437,"2018, Action/Mystery & thriller, 2h 27m",88,"10,000+ Ratings",437 Reviews
+13,"
+            BlacKkKlansman (2018)", 96%,447,"2018, Crime/Comedy, 2h 14m",83,"10,000+ Ratings",447 Reviews
+14,"
+            Get Out (2017)", 98%,397,"2017, Horror/Comedy, 1h 44m",86,"50,000+ Ratings",397 Reviews
+15,"
+            The Irishman (2019)", 95%,455,"2019, Crime/Drama, 3h 29m",86,"1,000+ Verified Ratings",455 Reviews
+16,"
+            The Godfather (1972)", 97%,133,"1972, Crime/Drama, 2h 57m",98,"250,000+ Ratings",133 Reviews
+17,"
+            Mad Max: Fury Road (2015)", 97%,434,"2015, Adventure/Action, 2h 0m",86,"100,000+ Ratings",434 Reviews
+18,"
+            Spider-Man: Into the Spider-Verse (2018)", 97%,393,"2018, Fantasy/Adventure, 1h 57m",93,"10,000+ Ratings",393 Reviews
+19,"
+            Sunset Boulevard (1950)", 98%,110,"1950, Drama, 1h 50m",95,"50,000+ Ratings",110 Reviews
+20,"
+            Moonlight (2016)", 98%,393,"2016, Drama/Lgbtq+, 1h 51m",79,"25,000+ Ratings",393 Reviews
+21,"
+            All About Eve (1950)", 99%,103,"1950, Drama, 2h 18m",94,"25,000+ Ratings",103 Reviews
+22,"
+            The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920)", 99%,68,"1919, Fantasy/Mystery & thriller, 1h 9m",89,"25,000+ Ratings",68 Reviews
+23,"
+            The Philadelphia Story (1940)", 100%,102,"1940, Romance/Comedy, 1h 52m",93,"25,000+ Ratings",102 Reviews
+24,"
+            Roma (2018)", 96%,404,"2018, Drama, 2h 15m",72,"5,000+ Ratings",404 Reviews
+25,"
+            Wonder Woman (2017)", 93%,471,"2017, Adventure/Action, 2h 21m",83,"100,000+ Ratings",471 Reviews
+26,"
+            A Star Is Born (2018)", 90%,528,"2018, Romance/Drama, 2h 15m",79,"10,000+ Ratings",528 Reviews
+27,"
+            Inside Out (2015)", 98%,379,"2015, Animation/Comedy, 1h 35m",89,"100,000+ Ratings",379 Reviews
+28,"
+            A Quiet Place (2018)", 96%,387,"2018, Horror/Mystery & thriller, 1h 30m",83,"10,000+ Ratings",387 Reviews
+29,"
+            Eighth Grade (2018)", 99%,318,"2018, Comedy/Drama, 1h 33m",82,"5,000+ Ratings",318 Reviews
+30,"
+            Rebecca (1940)", 100%,95,"1940, Mystery & thriller, 2h 10m",92,"25,000+ Ratings",95 Reviews
+31,"
+            His Girl Friday (1940)", 99%,100,"1940, Comedy, 1h 32m",90,"10,000+ Ratings",100 Reviews
+32,"
+            Booksmart (2019)", 96%,377,"2019, Comedy/Lgbtq+, 1h 42m",77,"2,500+ Verified Ratings",377 Reviews
+33,"
+            Logan (2017)", 94%,423,"2017, Adventure/Action, 2h 17m",90,"50,000+ Ratings",423 Reviews
+34,"
+            Portrait of a Lady on Fire (Portrait de la jeune fille en feu) (2020)", 98%,324,"2019, History/Romance, 2h 1m",92,250+ Verified Ratings,324 Reviews
+35,"
+            Coco (2017)", 97%,353,"2017, Comedy/Kids & family, 1h 49m",94,"25,000+ Ratings",353 Reviews
+36,"
+            Dunkirk (2017)", 92%,461,"2017, War/History, 1h 47m",81,"50,000+ Ratings",461 Reviews
+37,"
+            A Night at the Opera (1935)", 97%,70,"1935, Comedy, 1h 33m",91,"10,000+ Ratings",70 Reviews
+38,"
+            Star Wars: The Last Jedi (2017)", 91%,482,"2017, Fantasy/Adventure, 2h 32m",42,"100,000+ Ratings",482 Reviews
+39,"
+            The Shape of Water (2017)", 92%,459,"2017, Romance/Fantasy, 2h 3m",72,"25,000+ Ratings",459 Reviews
+40,"
+            Thor: Ragnarok (2017)", 93%,437,"2017, Comedy/Action, 2h 10m",87,"50,000+ Ratings",437 Reviews
+41,"
+            Spotlight (2015)", 97%,376,"2015, Drama, 2h 8m",93,"50,000+ Ratings",376 Reviews
+42,"
+            The Farewell (2019)", 97%,345,"2019, Comedy/Drama, 1h 40m",87,"1,000+ Verified Ratings",345 Reviews
+43,"
+            Selma (2014)", 99%,313,"2014, History/Drama, 2h 8m",86,"50,000+ Ratings",313 Reviews
+44,"
+            The Third Man (1949)", 99%,86,"1949, Mystery & thriller, 1h 44m",93,"50,000+ Ratings",86 Reviews
+45,"
+            Rear Window (1954)", 98%,122,"1954, Mystery & thriller, 1h 52m",95,"100,000+ Ratings",122 Reviews
+46,"
+            E.T. The Extra-Terrestrial (1982)", 99%,136,"1982, Kids & family/Sci-fi, 1h 55m",72,"250,000+ Ratings",136 Reviews
+47,"
+            Seven Samurai (Shichinin no Samurai) (1956)", 100%,88,"1954, Action, 3h 28m",97,"50,000+ Ratings",88 Reviews
+48,"
+            La Grande illusion (Grand Illusion) (1938)", 97%,68,"1937, Drama/War, 1h 57m",92,"10,000+ Ratings",68 Reviews
+49,"
+            Arrival (2016)", 94%,435,"2016, Drama/Mystery & thriller, 1h 56m",82,"50,000+ Ratings",435 Reviews
+50,"
+            Singin' in the Rain (1952)", 100%,67,"1952, Musical/Comedy, 1h 42m",95,"100,000+ Ratings",67 Reviews
+51,"
+            The Favourite (2018)", 93%,422,"2018, Comedy/Drama, 2h 0m",69,"5,000+ Ratings",422 Reviews
+52,"
+            Double Indemnity (1944)", 97%,92,"1944, Crime/Drama, 1h 46m",95,"25,000+ Ratings",92 Reviews
+53,"
+            All Quiet on the Western Front (1930)", 98%,81,"1930, War, 1h 45m",89,"10,000+ Ratings",81 Reviews
+54,"
+            Snow White and the Seven Dwarfs (1937)", 98%,54,"1937, Animation/Kids & family, 1h 20m",78,"250,000+ Ratings",54 Reviews
+55,"
+            Marriage Story (2019)", 94%,392,"2019, Comedy/Drama, 2h 16m",85,100+ Verified Ratings,392 Reviews
+56,"
+            An American in Paris (1951)", 96%,94,"1951, Romance/Musical, 1h 53m",79,"25,000+ Ratings",94 Reviews
+57,"
+            The Big Sick (2017)", 98%,304,"2017, Romance/Comedy, 2h 0m",88,"25,000+ Ratings",304 Reviews
+58,"
+            The Kid (1921)", 100%,49,"1921, Comedy/Drama, 1h 0m",95,"10,000+ Ratings",49 Reviews
+59,"
+            Star Wars: Episode VII - The Force Awakens (2015)", 93%,445,"2015, Fantasy/Adventure, 2h 16m",85,"100,000+ Ratings",445 Reviews
+60,"
+            Metropolis (1927)", 97%,135,"1927, Drama/Sci-fi, 2h 3m",92,"50,000+ Ratings",135 Reviews
+61,"
+            On the Waterfront (1954)", 99%,105,"1954, Drama, 1h 48m",95,"50,000+ Ratings",105 Reviews
+62,"
+            Gravity (2013)", 96%,357,"2013, Drama/Mystery & thriller, 1h 31m",80,"250,000+ Ratings",357 Reviews
+63,"
+            The Best Years of Our Lives (1946)", 98%,91,"1946, Drama, 2h 52m",93,"10,000+ Ratings",91 Reviews
+64,"
+            Boyhood (2014)", 97%,327,"2014, Drama, 2h 45m",80,"50,000+ Ratings",327 Reviews
+65,"
+            Leave No Trace (2018)", 100%,247,"2018, Drama, 1h 48m",80,"2,500+ Ratings",247 Reviews
+66,"
+            The Maltese Falcon (1941)", 100%,64,"1941, Crime/Drama, 1h 40m",91,"50,000+ Ratings",64 Reviews
+67,"
+            12 Years a Slave (2013)", 95%,374,"2013, Biography/Drama, 2h 14m",90,"100,000+ Ratings",374 Reviews
+68,"
+            Once Upon a Time In Hollywood (2019)", 85%,571,"2019, Comedy/Drama, 2h 39m",70,"25,000+ Verified Ratings",571 Reviews
+69,"
+            The Invisible Man (2020)", 92%,412,"2020, Mystery & thriller/Horror, 2h 4m",88,"10,000+ Verified Ratings",412 Reviews
+70,"
+            Argo (2012)", 96%,360,"2012, History/Mystery & thriller, 2h 0m",90,"100,000+ Ratings",360 Reviews
+71,"
+            Manchester by the Sea (2016)", 96%,353,"2016, Drama, 2h 17m",78,"50,000+ Ratings",353 Reviews
+72,"
+            The Adventures of Robin Hood (1938)", 100%,48,"1938, Adventure/Action, 1h 42m",89,"25,000+ Ratings",48 Reviews
+73,"
+            North by Northwest (1959)", 97%,109,"1959, Mystery & thriller, 2h 16m",94,"50,000+ Ratings",109 Reviews
+74,"
+            La La Land (2016)", 91%,466,"2016, Romance/Musical, 2h 8m",81,"50,000+ Ratings",466 Reviews
+75,"
+            Laura (1944)", 100%,65,"1944, Mystery & thriller, 1h 28m",91,"10,000+ Ratings",65 Reviews
+76,"
+            Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)", 97%,68,"1922, Horror/Fantasy, 1h 5m",87,"25,000+ Ratings",68 Reviews
+77,"
+            Incredibles 2 (2018)", 93%,387,"2018, Comedy/Kids & family, 1h 58m",84,"10,000+ Ratings",387 Reviews
+78,"
+            Spider-Man: Far From Home (2019)", 90%,452,"2019, Comedy/Adventure, 2h 9m",95,"50,000+ Verified Ratings",452 Reviews
+79,"
+            Zootopia (2016)", 98%,298,"2016, Animation/Comedy, 1h 48m",92,"100,000+ Ratings",298 Reviews
+80,"
+            Alien (1979)", 98%,127,"1979, Horror/Sci-fi, 1h 57m",94,"250,000+ Ratings",127 Reviews
+81,"
+            King Kong (1933)", 98%,66,"1933, Fantasy/Adventure, 1h 40m",86,"50,000+ Ratings",66 Reviews
+82,"
+            Call Me by Your Name (2018)", 94%,363,"2017, Romance/Drama, 2h 12m",86,"10,000+ Ratings",363 Reviews
+83,"
+            Psycho (1960)", 96%,105,"1960, Horror/Mystery & thriller, 1h 49m",95,"100,000+ Ratings",105 Reviews
+84,"
+            L.A. Confidential (1997)", 99%,161,"1997, Crime/Drama, 2h 16m",94,"100,000+ Ratings",161 Reviews
+85,"
+            Shadow of a Doubt (1943)", 100%,48,"1943, Crime/Drama, 1h 48m",89,"10,000+ Ratings",48 Reviews
+86,"
+            1917 (2020)", 89%,461,"2019, War/History, 1h 59m",88,"25,000+ Verified Ratings",461 Reviews
+87,"
+            War for the Planet of the Apes (2017)", 94%,360,"2017, Adventure/Action, 2h 22m",84,"50,000+ Ratings",360 Reviews
+88,"
+            The Florida Project (2017)", 96%,315,"2017, Drama, 1h 55m",80,"10,000+ Ratings",315 Reviews
+89,"
+            Paddington 2 (2018)", 99%,247,"2017, Comedy/Adventure, 1h 43m",87,"5,000+ Ratings",247 Reviews
+90,"
+            Widows (2018)", 91%,420,"2018, Crime/Drama, 2h 8m",61,"5,000+ Ratings",420 Reviews
+91,"
+            A Hard Day's Night (1964)", 98%,111,"1964, Musical/Comedy, 1h 23m",89,"50,000+ Ratings",111 Reviews
+92,"
+            The Battle of Algiers (La Battaglia di Algeri) (1967)", 99%,89,"1966, War/History, 2h 5m",95,"10,000+ Ratings",89 Reviews
+93,"
+            The Godfather, Part II (1974)", 96%,114,"1974, Crime/Drama, 3h 20m",97,"250,000+ Ratings",114 Reviews
+94,"
+            Baby Driver (2017)", 92%,395,"2017, Mystery & thriller/Action, 1h 53m",86,"50,000+ Ratings",395 Reviews
+95,"
+            Never Rarely Sometimes Always (2020)", 99%,235,"2020, Drama, 1h 41m",52,500+ Ratings,235 Reviews
+96,"
+            Spider-Man: Homecoming (2017)", 92%,394,"2017, Action/Adventure, 2h 13m",87,"100,000+ Ratings",394 Reviews
+97,"
+            The Bridge on the River Kwai (1957)", 96%,93,"1957, War/Drama, 2h 41m",93,"50,000+ Ratings",93 Reviews
+98,"
+            Pain and Glory (Dolor y gloria) (2019)", 96%,299,"2019, Drama, 1h 53m",91,250+ Verified Ratings,299 Reviews
+99,"
+            Top Hat (1935)", 100%,42,"1935, Romance/Musical, 1h 39m",90,"5,000+ Ratings",42 Reviews

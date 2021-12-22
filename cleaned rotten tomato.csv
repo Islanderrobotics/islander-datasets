@@ -1,0 +1,101 @@
+,names,tomatometer,number_of_reviews,year,genre,audience_score,audience_count,critics_count,minutes
+0,It Happened One Night ,99,98,1934, Romance/Comedy,93,"25,000+",98,105
+1,The Wizard of Oz ,98,160,1939, Musical/Kids & family,89,"250,000+",160,101
+2,Citizen Kane ,99,120,1941, Drama,90,"100,000+",120,119
+3,Modern Times ,98,109,1936, Comedy,95,"25,000+",109,89
+4,Black Panther ,96,525,2018, Adventure/Action,79,"50,000+",525,134
+5,Parasite ,98,464,2019, Comedy/Mystery & thriller,90,"5,000+",464,132
+6,Avengers: Endgame ,94,547,2019, Sci-fi/Adventure,90,"50,000+",547,181
+7,Casablanca ,99,124,1942, Drama,95,"250,000+",124,102
+8,Knives Out ,97,467,2019, Crime/Comedy,92,"25,000+",467,130
+9,Us ,93,553,2019, Horror/Mystery & thriller,59,"10,000+",553,116
+10,Toy Story 4 ,97,453,2019, Comedy/Kids & family,94,"50,000+",453,100
+11,Lady Bird ,99,398,2017, Comedy/Drama,79,"10,000+",398,94
+12,Mission: Impossible - Fallout ,97,437,2018, Action/Mystery & thriller,88,"10,000+",437,147
+13,BlacKkKlansman ,96,447,2018, Crime/Comedy,83,"10,000+",447,134
+14,Get Out ,98,397,2017, Horror/Comedy,86,"50,000+",397,104
+15,The Irishman ,95,455,2019, Crime/Drama,86,"1,000+",455,209
+16,The Godfather ,97,133,1972, Crime/Drama,98,"250,000+",133,177
+17,Mad Max: Fury Road ,97,434,2015, Adventure/Action,86,"100,000+",434,120
+18,Spider-Man: Into the Spider-Verse ,97,393,2018, Fantasy/Adventure,93,"10,000+",393,117
+19,Sunset Boulevard ,98,110,1950, Drama,95,"50,000+",110,110
+20,Moonlight ,98,393,2016, Drama/Lgbtq+,79,"25,000+",393,111
+21,All About Eve ,99,103,1950, Drama,94,"25,000+",103,138
+22,The Cabinet of Dr. Caligari ,99,68,1919, Fantasy/Mystery & thriller,89,"25,000+",68,69
+23,The Philadelphia Story ,100,102,1940, Romance/Comedy,93,"25,000+",102,112
+24,Roma ,96,404,2018, Drama,72,"5,000+",404,135
+25,Wonder Woman ,93,471,2017, Adventure/Action,83,"100,000+",471,141
+26,A Star Is Born ,90,528,2018, Romance/Drama,79,"10,000+",528,135
+27,Inside Out ,98,379,2015, Animation/Comedy,89,"100,000+",379,95
+28,A Quiet Place ,96,387,2018, Horror/Mystery & thriller,83,"10,000+",387,90
+29,Eighth Grade ,99,318,2018, Comedy/Drama,82,"5,000+",318,93
+30,Rebecca ,100,95,1940, Mystery & thriller,92,"25,000+",95,130
+31,His Girl Friday ,99,100,1940, Comedy,90,"10,000+",100,92
+32,Booksmart ,96,377,2019, Comedy/Lgbtq+,77,"2,500+",377,102
+33,Logan ,94,423,2017, Adventure/Action,90,"50,000+",423,137
+34,Portrait of a Lady on Fire ,98,324,2019, History/Romance,92,250+,324,121
+35,Coco ,97,353,2017, Comedy/Kids & family,94,"25,000+",353,109
+36,Dunkirk ,92,461,2017, War/History,81,"50,000+",461,107
+37,A Night at the Opera ,97,70,1935, Comedy,91,"10,000+",70,93
+38,Star Wars: The Last Jedi ,91,482,2017, Fantasy/Adventure,42,"100,000+",482,152
+39,The Shape of Water ,92,459,2017, Romance/Fantasy,72,"25,000+",459,123
+40,Thor: Ragnarok ,93,437,2017, Comedy/Action,87,"50,000+",437,130
+41,Spotlight ,97,376,2015, Drama,93,"50,000+",376,128
+42,The Farewell ,97,345,2019, Comedy/Drama,87,"1,000+",345,100
+43,Selma ,99,313,2014, History/Drama,86,"50,000+",313,128
+44,The Third Man ,99,86,1949, Mystery & thriller,93,"50,000+",86,104
+45,Rear Window ,98,122,1954, Mystery & thriller,95,"100,000+",122,112
+46,E.T. The Extra-Terrestrial ,99,136,1982, Kids & family/Sci-fi,72,"250,000+",136,115
+47,Seven Samurai ,100,88,1954, Action,97,"50,000+",88,208
+48,La Grande illusion ,97,68,1937, Drama/War,92,"10,000+",68,117
+49,Arrival ,94,435,2016, Drama/Mystery & thriller,82,"50,000+",435,116
+50,Singin' in the Rain ,100,67,1952, Musical/Comedy,95,"100,000+",67,102
+51,The Favourite ,93,422,2018, Comedy/Drama,69,"5,000+",422,120
+52,Double Indemnity ,97,92,1944, Crime/Drama,95,"25,000+",92,106
+53,All Quiet on the Western Front ,98,81,1930, War,89,"10,000+",81,105
+54,Snow White and the Seven Dwarfs ,98,54,1937, Animation/Kids & family,78,"250,000+",54,80
+55,Marriage Story ,94,392,2019, Comedy/Drama,85,100+,392,136
+56,An American in Paris ,96,94,1951, Romance/Musical,79,"25,000+",94,113
+57,The Big Sick ,98,304,2017, Romance/Comedy,88,"25,000+",304,120
+58,The Kid ,100,49,1921, Comedy/Drama,95,"10,000+",49,60
+59,Star Wars: Episode VII - The Force Awakens ,93,445,2015, Fantasy/Adventure,85,"100,000+",445,136
+60,Metropolis ,97,135,1927, Drama/Sci-fi,92,"50,000+",135,123
+61,On the Waterfront ,99,105,1954, Drama,95,"50,000+",105,108
+62,Gravity ,96,357,2013, Drama/Mystery & thriller,80,"250,000+",357,91
+63,The Best Years of Our Lives ,98,91,1946, Drama,93,"10,000+",91,172
+64,Boyhood ,97,327,2014, Drama,80,"50,000+",327,165
+65,Leave No Trace ,100,247,2018, Drama,80,"2,500+",247,108
+66,The Maltese Falcon ,100,64,1941, Crime/Drama,91,"50,000+",64,100
+67,12 Years a Slave ,95,374,2013, Biography/Drama,90,"100,000+",374,134
+68,Once Upon a Time In Hollywood ,85,571,2019, Comedy/Drama,70,"25,000+",571,159
+69,The Invisible Man ,92,412,2020, Mystery & thriller/Horror,88,"10,000+",412,124
+70,Argo ,96,360,2012, History/Mystery & thriller,90,"100,000+",360,120
+71,Manchester by the Sea ,96,353,2016, Drama,78,"50,000+",353,137
+72,The Adventures of Robin Hood ,100,48,1938, Adventure/Action,89,"25,000+",48,102
+73,North by Northwest ,97,109,1959, Mystery & thriller,94,"50,000+",109,136
+74,La La Land ,91,466,2016, Romance/Musical,81,"50,000+",466,128
+75,Laura ,100,65,1944, Mystery & thriller,91,"10,000+",65,88
+76,"Nosferatu, a Symphony of Horror ",97,68,1922, Horror/Fantasy,87,"25,000+",68,65
+77,Incredibles 2 ,93,387,2018, Comedy/Kids & family,84,"10,000+",387,118
+78,Spider-Man: Far From Home ,90,452,2019, Comedy/Adventure,95,"50,000+",452,129
+79,Zootopia ,98,298,2016, Animation/Comedy,92,"100,000+",298,108
+80,Alien ,98,127,1979, Horror/Sci-fi,94,"250,000+",127,117
+81,King Kong ,98,66,1933, Fantasy/Adventure,86,"50,000+",66,100
+82,Call Me by Your Name ,94,363,2017, Romance/Drama,86,"10,000+",363,132
+83,Psycho ,96,105,1960, Horror/Mystery & thriller,95,"100,000+",105,109
+84,L.A. Confidential ,99,161,1997, Crime/Drama,94,"100,000+",161,136
+85,Shadow of a Doubt ,100,48,1943, Crime/Drama,89,"10,000+",48,108
+86,1917 ,89,461,2019, War/History,88,"25,000+",461,119
+87,War for the Planet of the Apes ,94,360,2017, Adventure/Action,84,"50,000+",360,142
+88,The Florida Project ,96,315,2017, Drama,80,"10,000+",315,115
+89,Paddington 2 ,99,247,2017, Comedy/Adventure,87,"5,000+",247,103
+90,Widows ,91,420,2018, Crime/Drama,61,"5,000+",420,128
+91,A Hard Day's Night ,98,111,1964, Musical/Comedy,89,"50,000+",111,83
+92,The Battle of Algiers ,99,89,1966, War/History,95,"10,000+",89,125
+93,"The Godfather, Part II ",96,114,1974, Crime/Drama,97,"250,000+",114,200
+94,Baby Driver ,92,395,2017, Mystery & thriller/Action,86,"50,000+",395,113
+95,Never Rarely Sometimes Always ,99,235,2020, Drama,52,500+,235,101
+96,Spider-Man: Homecoming ,92,394,2017, Action/Adventure,87,"100,000+",394,133
+97,The Bridge on the River Kwai ,96,93,1957, War/Drama,93,"50,000+",93,161
+98,Pain and Glory ,96,299,2019, Drama,91,250+,299,113
+99,Top Hat ,100,42,1935, Romance/Musical,90,"5,000+",42,99
