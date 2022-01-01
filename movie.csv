@@ -1,0 +1,368 @@
+,title,rating,run time,year,genre,Director,Score
+0,The Shawshank Redemption,R,2H:22M,1994,Drama,Frank Darabont,9.2
+1,The Godfather,R,2H:55M,1972,Crime,Francis Ford Coppola,9.1
+2,The Godfather: Part II,R,3H:22M,1974,Crime,Francis Ford Coppola,9.0
+3,The Dark Knight,PG-13,2H:32M,2008,Action,Christopher Nolan,9.0
+4,12 Angry Men,Approved,1H:36M,1957,Crime,Sidney Lumet,8.9
+5,Schindler's List,R,3H:15M,1993,Biography,Steven Spielberg,8.9
+6,The Lord of the Rings: The Return of the King,PG-13,3H:21M,2003,Action,Peter Jackson,8.9
+7,Pulp Fiction,R,2H:34M,1994,Crime,Quentin Tarantino,8.8
+8,"The Good, the Bad and the Ugly",R,2H:58M,1966,Adventure,Sergio Leone,8.8
+9,The Lord of the Rings: The Fellowship of the Ring,PG-13,2H:58M,2001,Action,Peter Jackson,8.8
+10,Fight Club,R,2H:19M,1999,Drama,David Fincher,8.7
+11,Forrest Gump,PG-13,2H:22M,1994,Drama,Robert Zemeckis,8.7
+12,Inception,PG-13,2H:28M,2010,Action,Christopher Nolan,8.7
+13,Spider-Man: No Way Home,PG-13,2H:28M,2021,Action,Jon Watts,8.7
+14,The Lord of the Rings: The Two Towers,PG,2H:59M,2002,Action,Peter Jackson,8.7
+15,Star Wars: Episode V - The Empire Strikes Back,PG,2H:4M,1980,Action,Irvin Kershner,8.7
+16,The Matrix,R,2H:16M,1999,Action,Lana Wachowski,8.6
+17,Goodfellas,R,2H:26M,1990,Biography,Martin Scorsese,8.6
+18,One Flew Over the Cuckoo's Nest,R,2H:13M,1975,Drama,Milos Forman,8.6
+19,Seven Samurai,Not Rated,3H:27M,1954,Action,Akira Kurosawa,8.6
+20,Se7en,R,2H:7M,1995,Crime,David Fincher,8.6
+21,The Silence of the Lambs,R,1H:58M,1991,Crime,Jonathan Demme,8.6
+22,It's a Wonderful Life,PG,2H:10M,1946,Drama,Frank Capra,8.6
+23,City of God,R,2H:10M,2002,Crime,Fernando Meirelles,8.6
+24,Life Is Beautiful,PG-13,1H:56M,1997,Comedy,Roberto Benigni,8.6
+25,Saving Private Ryan,R,2H:49M,1998,Drama,Steven Spielberg,8.6
+26,Star Wars: Episode IV - A New Hope,PG,2H:1M,1977,Action,George Lucas,8.5
+27,Interstellar,PG-13,2H:49M,2014,Adventure,Christopher Nolan,8.5
+28,Spirited Away,PG,2H:5M,2001,Animation,Hayao Miyazaki,8.5
+29,The Green Mile,R,3H:9M,1999,Crime,Frank Darabont,8.5
+30,Parasite,R,2H:12M,2019,Comedy,Bong Joon Ho,8.5
+31,Léon: The Professional,R,1H:50M,1994,Action,Luc Besson,8.5
+32,Hara-Kiri,Not Rated,2H:13M,1962,Action,Masaki Kobayashi,8.5
+33,The Pianist,R,2H:30M,2002,Biography,Roman Polanski,8.5
+34,Terminator 2: Judgment Day,R,2H:17M,1991,Action,James Cameron,8.5
+35,Back to the Future,PG,1H:56M,1985,Adventure,Robert Zemeckis,8.5
+36,The Usual Suspects,R,1H:46M,1995,Crime,Bryan Singer,8.5
+37,Psycho,R,1H:49M,1960,Horror,Alfred Hitchcock,8.5
+38,The Lion King,G,1H:28M,1994,Animation,Roger Allers,8.5
+39,Modern Times,G,1H:27M,1936,Comedy,Charles Chaplin,8.5
+40,Grave of the Fireflies,Not Rated,1H:29M,1988,Animation,Isao Takahata,8.5
+41,American History X,R,1H:59M,1998,Drama,Tony Kaye,8.5
+42,Whiplash,R,1H:46M,2014,Drama,Damien Chazelle,8.5
+43,Gladiator,R,2H:35M,2000,Action,Ridley Scott,8.5
+44,City Lights,G,1H:27M,1931,Comedy,Charles Chaplin,8.5
+45,The Departed,R,2H:31M,2006,Action,Martin Scorsese,8.5
+46,The Intouchables,R,1H:52M,2011,Biography,Olivier Nakache,8.5
+47,The Prestige,PG-13,2H:10M,2006,Drama,Christopher Nolan,8.5
+48,Casablanca,PG,1H:42M,1942,Drama,Michael Curtiz,8.4
+49,Once Upon a Time in the West,PG-13,2H:45M,1968,Western,Sergio Leone,8.4
+50,Rear Window,PG,1H:52M,1954,Mystery,Alfred Hitchcock,8.4
+51,Cinema Paradiso,PG,2H:35M,1988,Drama,Giuseppe Tornatore,8.4
+52,Alien,R,1H:57M,1979,Horror,Ridley Scott,8.4
+53,Apocalypse Now,R,2H:27M,1979,Drama,Francis Ford Coppola,8.4
+54,Memento,R,1H:53M,2000,Mystery,Christopher Nolan,8.4
+55,Indiana Jones and the Raiders of the Lost Ark,PG,1H:55M,1981,Action,Steven Spielberg,8.4
+56,The Great Dictator,G,2H:5M,1940,Comedy,Charles Chaplin,8.4
+57,Django Unchained,R,2H:45M,2012,Drama,Quentin Tarantino,8.4
+58,The Lives of Others,R,2H:17M,2006,Drama,Florian Henckel von Donnersmarck,8.4
+59,Paths of Glory,Approved,1H:28M,1957,Drama,Stanley Kubrick,8.4
+60,Sunset Blvd.,Passed,1H:50M,1950,Drama,Billy Wilder,8.4
+61,WALL·E,G,1H:38M,2008,Animation,Andrew Stanton,8.4
+62,Avengers: Infinity War,PG-13,2H:29M,2018,Action,Anthony Russo,8.4
+63,Witness for the Prosecution,Approved,1H:56M,1957,Crime,Billy Wilder,8.4
+64,The Shining,R,2H:26M,1980,Drama,Stanley Kubrick,8.4
+65,Spider-Man: Into the Spider-Verse,PG,1H:57M,2018,Animation,Bob Persichetti,8.4
+66,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,PG,1H:35M,1964,Comedy,Stanley Kubrick,8.4
+67,Princess Mononoke,PG-13,2H:14M,1997,Animation,Hayao Miyazaki,8.3
+68,Oldboy,R,1H:44M,2003,Action,Park Chan-Wook,8.3
+69,Joker,R,2H:2M,2019,Crime,Todd Phillips,8.3
+70,Your Name.,TV-PG,1H:46M,2016,Animation,Makoto Shinkai,8.3
+71,Coco,PG,1H:45M,2017,Animation,Lee Unkrich,8.3
+72,The Dark Knight Rises,PG-13,2H:44M,2012,Action,Christopher Nolan,8.3
+73,Aliens,R,2H:17M,1986,Action,James Cameron,8.3
+74,Once Upon a Time in America,R,3H:49M,1984,Crime,Sergio Leone,8.3
+75,Avengers: Endgame,PG-13,3H:1M,2019,Action,Anthony Russo,8.3
+76,Capernaum,R,2H:6M,2018,Drama,Nadine Labaki,8.3
+77,Das Boot,Not Rated,2H:29M,1981,Drama,Wolfgang Petersen,8.3
+78,High and Low,Not Rated,2H:23M,1963,Crime,Akira Kurosawa,8.3
+79,3 Idiots,PG-13,2H:50M,2009,Comedy,Rajkumar Hirani,8.3
+80,Toy Story,G,1H:21M,1995,Animation,John Lasseter,8.3
+81,American Beauty,R,2H:2M,1999,Drama,Sam Mendes,8.3
+82,Amadeus,PG,2H:40M,1984,Biography,Milos Forman,8.3
+83,Braveheart,R,2H:58M,1995,Biography,Mel Gibson,8.3
+84,Inglourious Basterds,R,2H:33M,2009,Adventure,Quentin Tarantino,8.3
+85,Hamilton,PG-13,2H:40M,2020,Biography,Thomas Kail,8.3
+86,Good Will Hunting,R,2H:6M,1997,Drama,Gus Van Sant,8.3
+87,Star Wars: Episode VI - Return of the Jedi,PG,2H:11M,1983,Action,Richard Marquand,8.3
+88,2001: A Space Odyssey,G,2H:29M,1968,Adventure,Stanley Kubrick,8.3
+89,Come and See,Not Rated,2H:22M,1985,Drama,Elem Klimov,8.3
+90,Reservoir Dogs,R,1H:39M,1992,Crime,Quentin Tarantino,8.3
+91,Like Stars on Earth,PG,2H:45M,2007,Drama,Aamir Khan,8.3
+92,Vertigo,PG,2H:8M,1958,Mystery,Alfred Hitchcock,8.3
+93,M,Passed,1H:39M,1931,Crime,Fritz Lang,8.3
+94,Citizen Kane,PG,1H:59M,1941,Drama,Orson Welles,8.3
+95,The Hunt,R,1H:55M,2012,Drama,Thomas Vinterberg,8.3
+96,Requiem for a Dream,Unrated,1H:42M,2000,Drama,Darren Aronofsky,8.3
+97,Singin' in the Rain,G,1H:43M,1952,Comedy,Stanley Donen,8.3
+98,North by Northwest,Approved,2H:16M,1959,Adventure,Alfred Hitchcock,8.3
+99,Eternal Sunshine of the Spotless Mind,R,1H:48M,2004,Drama,Michel Gondry,8.3
+100,Ikiru,Not Rated,2H:23M,1952,Drama,Akira Kurosawa,8.3
+101,Bicycle Thieves,Not Rated,1H:29M,1948,Drama,Vittorio De Sica,8.3
+102,Lawrence of Arabia,Approved,3H:48M,1962,Adventure,David Lean,8.3
+103,The Kid,Passed,1H:8M,1921,Comedy,Charles Chaplin,8.2
+104,Full Metal Jacket,R,1H:56M,1987,Drama,Stanley Kubrick,8.2
+105,Dangal,Not Rated,2H:41M,2016,Action,Nitesh Tiwari,8.2
+106,Incendies,R,2H:11M,2010,Drama,Denis Villeneuve,8.2
+107,The Apartment,Approved,2H:5M,1960,Comedy,Billy Wilder,8.2
+108,The Father,PG-13,1H:37M,2020,Drama,Florian Zeller,8.2
+109,Double Indemnity,Passed,1H:47M,1944,Crime,Billy Wilder,8.2
+110,Metropolis,Not Rated,2H:33M,1927,Drama,Fritz Lang,8.2
+111,Taxi Driver,R,1H:54M,1976,Crime,Martin Scorsese,8.2
+112,A Clockwork Orange,X,2H:16M,1971,Crime,Stanley Kubrick,8.2
+113,A Separation,PG-13,2H:3M,2011,Drama,Asghar Farhadi,8.2
+114,The Sting,PG,2H:9M,1973,Comedy,George Roy Hill,8.2
+115,Scarface,R,2H:50M,1983,Crime,Brian De Palma,8.2
+116,Snatch,R,1H:42M,2000,Comedy,Guy Ritchie,8.2
+117,1917,R,1H:59M,2019,Action,Sam Mendes,8.2
+118,Amélie,R,2H:2M,2001,Comedy,Jean-Pierre Jeunet,8.2
+119,Pather Panchali,Not Rated,2H:5M,1955,Drama,Satyajit Ray,8.2
+120,To Kill a Mockingbird,Approved,2H:9M,1962,Crime,Robert Mulligan,8.2
+121,Toy Story 3,G,1H:43M,2010,Animation,Lee Unkrich,8.2
+122,For a Few Dollars More,R,2H:12M,1965,Western,Sergio Leone,8.2
+123,Up,PG,1H:36M,2009,Animation,Pete Docter,8.2
+124,Indiana Jones and the Last Crusade,PG-13,2H:7M,1989,Action,Steven Spielberg,8.2
+125,Heat,R,2H:50M,1995,Action,Michael Mann,8.2
+126,L.A. Confidential,R,2H:18M,1997,Crime,Curtis Hanson,8.2
+127,Yojimbo,Not Rated,1H:50M,1961,Action,Akira Kurosawa,8.2
+128,Die Hard,R,2H:12M,1988,Action,John McTiernan,8.2
+129,Ran,R,2H:42M,1985,Action,Akira Kurosawa,8.2
+130,Rashomon,Not Rated,1H:28M,1950,Crime,Akira Kurosawa,8.2
+131,Green Book,PG-13,2H:10M,2018,Biography,Peter Farrelly,8.2
+132,Downfall,R,2H:36M,2004,Biography,Oliver Hirschbiegel,8.2
+133,Monty Python and the Holy Grail,PG,1H:31M,1975,Adventure,Terry Gilliam,8.2
+134,All About Eve,Passed,2H:18M,1950,Drama,Joseph L. Mankiewicz,8.2
+135,Some Like It Hot,Passed,2H:1M,1959,Comedy,Billy Wilder,8.2
+136,Batman Begins,PG-13,2H:20M,2005,Action,Christopher Nolan,8.2
+137,Unforgiven,R,2H:10M,1992,Drama,Clint Eastwood,8.2
+138,Children of Heaven,PG,1H:29M,1997,Drama,Majid Majidi,8.2
+139,Jai Bhim,TV-MA,2H:44M,2021,Crime,T.J. Gnanavel,8.2
+140,Howl's Moving Castle,PG,1H:59M,2004,Animation,Hayao Miyazaki,8.2
+141,The Wolf of Wall Street,R,3H:0M,2013,Biography,Martin Scorsese,8.2
+142,Judgment at Nuremberg,Approved,2H:59M,1961,Drama,Stanley Kramer,8.2
+143,There Will Be Blood,R,2H:38M,2007,Drama,Paul Thomas Anderson,8.2
+144,The Great Escape,Approved,2H:52M,1963,Adventure,John Sturges,8.2
+145,Casino,R,2H:58M,1995,Crime,Martin Scorsese,8.2
+146,The Treasure of the Sierra Madre,Passed,2H:6M,1948,Adventure,John Huston,8.2
+147,Pan's Labyrinth,R,1H:58M,2006,Drama,Guillermo del Toro,8.1
+148,A Beautiful Mind,PG-13,2H:15M,2001,Biography,Ron Howard,8.1
+149,The Secret in Their Eyes,R,2H:9M,2009,Drama,Juan José Campanella,8.1
+150,Raging Bull,R,2H:9M,1980,Biography,Martin Scorsese,8.1
+151,Chinatown,R,2H:10M,1974,Drama,Roman Polanski,8.1
+152,My Neighbor Totoro,G,1H:26M,1988,Animation,Hayao Miyazaki,8.1
+153,Dersu Uzala,G,2H:22M,1975,Adventure,Akira Kurosawa,8.1
+154,Shutter Island,R,2H:18M,2010,Mystery,Martin Scorsese,8.1
+155,"Lock, Stock and Two Smoking Barrels",R,1H:47M,1998,Action,Guy Ritchie,8.1
+156,No Country for Old Men,R,2H:2M,2007,Crime,Ethan Coen,8.1
+157,Dial M for Murder,PG,1H:45M,1954,Crime,Alfred Hitchcock,8.1
+158,The Gold Rush,Passed,1H:35M,1925,Adventure,Charles Chaplin,8.1
+159,Klaus,PG,1H:36M,2019,Animation,Sergio Pablos,8.1
+160,The Thing,R,1H:49M,1982,Horror,John Carpenter,8.1
+161,"Three Billboards Outside Ebbing, Missouri",R,1H:55M,2017,Comedy,Martin McDonagh,8.1
+162,The Seventh Seal,Not Rated,1H:36M,1957,Drama,Ingmar Bergman,8.1
+163,The Elephant Man,PG,2H:4M,1980,Biography,David Lynch,8.1
+164,The Sixth Sense,PG-13,1H:47M,1999,Drama,M. Night Shyamalan,8.1
+165,The Truman Show,PG,1H:43M,1998,Comedy,Peter Weir,8.1
+166,Jurassic Park,PG-13,2H:7M,1993,Action,Steven Spielberg,8.1
+167,Wild Strawberries,Not Rated,1H:31M,1957,Drama,Ingmar Bergman,8.1
+168,The Third Man,Approved,1H:33M,1949,Film-Noir,Carol Reed,8.1
+169,Memories of Murder,Not Rated,2H:12M,2003,Crime,Bong Joon Ho,8.1
+170,V for Vendetta,R,2H:12M,2005,Action,James McTeigue,8.1
+171,Blade Runner,R,1H:57M,1982,Action,Ridley Scott,8.1
+172,Trainspotting,R,1H:33M,1996,Drama,Danny Boyle,8.1
+173,Inside Out,PG,1H:35M,2015,Animation,Pete Docter,8.1
+174,The Bridge on the River Kwai,PG,2H:41M,1957,Adventure,David Lean,8.1
+175,Fargo,R,1H:38M,1996,Crime,Joel Coen,8.1
+176,Finding Nemo,G,1H:40M,2003,Animation,Andrew Stanton,8.1
+177,Warrior,PG-13,2H:20M,2011,Action,Gavin O'Connor,8.1
+178,Kill Bill: Vol. 1,R,1H:51M,2003,Action,Quentin Tarantino,8.1
+179,Gone with the Wind,Passed,3H:58M,1939,Drama,Victor Fleming,8.1
+180,Tokyo Story,Not Rated,2H:16M,1953,Drama,Yasujirô Ozu,8.1
+181,Dune,PG-13,2H:35M,2021,Action,Denis Villeneuve,8.1
+182,On the Waterfront,Approved,1H:48M,1954,Crime,Elia Kazan,8.1
+183,My Father and My Son,Not Rated,1H:52M,2005,Drama,Cagan Irmak,8.1
+184,Wild Tales,R,2H:2M,2014,Comedy,Damián Szifron,8.1
+185,Stalker,Not Rated,2H:42M,1979,Drama,Andrei Tarkovsky,8.1
+186,Prisoners,R,2H:33M,2013,Crime,Denis Villeneuve,8.1
+187,The Deer Hunter,R,3H:3M,1978,Drama,Michael Cimino,8.1
+188,The Grand Budapest Hotel,R,1H:39M,2014,Adventure,Wes Anderson,8.1
+189,The General,Passed,1H:7M,1926,Action,Clyde Bruckman,8.1
+190,Sherlock Jr.,Passed,0H:45M,1924,Action,Buster Keaton,8.1
+191,Gran Torino,R,1H:56M,2008,Drama,Clint Eastwood,8.1
+192,Persona,Not Rated,1H:23M,1966,Drama,Ingmar Bergman,8.1
+193,Z,M,2H:7M,1969,Crime,Costa-Gavras,8.1
+194,Before Sunrise,R,1H:41M,1995,Drama,Richard Linklater,8.1
+195,Mary and Max,Not Rated,1H:32M,2009,Animation,Adam Elliot,8.1
+196,Catch Me If You Can,PG-13,2H:21M,2002,Biography,Steven Spielberg,8.1
+197,Mr. Smith Goes to Washington,Passed,2H:9M,1939,Comedy,Frank Capra,8.1
+198,In the Name of the Father,R,2H:13M,1993,Biography,Jim Sheridan,8.1
+199,Barry Lyndon,PG,3H:5M,1975,Adventure,Stanley Kubrick,8.1
+200,Room,R,1H:58M,2015,Drama,Lenny Abrahamson,8.1
+201,Gone Girl,R,2H:29M,2014,Drama,David Fincher,8.1
+202,Hacksaw Ridge,R,2H:19M,2016,Biography,Mel Gibson,8.1
+203,The Passion of Joan of Arc,Passed,1H:54M,1928,Biography,Carl Theodor Dreyer,8.1
+204,Andhadhun,Not Rated,2H:19M,2018,Comedy,Sriram Raghavan,8.1
+205,Ford v Ferrari,PG-13,2H:32M,2019,Action,James Mangold,8.1
+206,12 Years a Slave,R,2H:14M,2013,Biography,Steve McQueen,8.1
+207,To Be or Not to Be,Passed,1H:39M,1942,Comedy,Ernst Lubitsch,8.1
+208,The Big Lebowski,R,1H:57M,1998,Comedy,Joel Coen,8.1
+209,Dead Poets Society,PG,2H:8M,1989,Comedy,Peter Weir,8.1
+210,How to Train Your Dragon,PG,1H:38M,2010,Animation,Dean DeBlois,8.1
+211,Mad Max: Fury Road,R,2H:0M,2015,Action,George Miller,8.1
+212,Ben-Hur,G,3H:32M,1959,Adventure,William Wyler,8.1
+213,Autumn Sonata,PG,1H:39M,1978,Drama,Ingmar Bergman,8.1
+214,Harry Potter and the Deathly Hallows: Part 2,PG-13,2H:10M,2011,Adventure,David Yates,8.1
+215,Million Dollar Baby,PG-13,2H:12M,2004,Drama,Clint Eastwood,8.1
+216,The Handmaiden,Not Rated,2H:25M,2016,Drama,Park Chan-Wook,8.1
+217,The Wages of Fear,Not Rated,2H:11M,1953,Adventure,Henri-Georges Clouzot,8.1
+218,Stand by Me,R,1H:29M,1986,Adventure,Rob Reiner,8.1
+219,Network,R,2H:1M,1976,Drama,Sidney Lumet,8.1
+220,Logan,R,2H:17M,2017,Action,James Mangold,8.1
+221,Cool Hand Luke,GP,2H:7M,1967,Crime,Stuart Rosenberg,8.0
+222,La Haine,Not Rated,1H:38M,1995,Crime,Mathieu Kassovitz,8.0
+223,Hachi: A Dog's Tale,G,1H:33M,2009,Biography,Lasse Hallström,8.0
+224,A Silent Voice: The Movie,Not Rated,2H:10M,2016,Animation,Naoko Yamada,8.0
+225,The 400 Blows,Not Rated,1H:39M,1959,Crime,François Truffaut,8.0
+226,Gangs of Wasseypur,Not Rated,5H:21M,2012,Action,Anurag Kashyap,8.0
+227,Platoon,R,2H:0M,1986,Drama,Oliver Stone,8.0
+228,Spotlight,R,2H:9M,2015,Biography,Tom McCarthy,8.0
+229,"Monsters, Inc.",G,1H:32M,2001,Animation,Pete Docter,8.0
+230,Rebecca,Approved,2H:10M,1940,Drama,Alfred Hitchcock,8.0
+231,Life of Brian,R,1H:34M,1979,Comedy,Terry Jones,8.0
+232,In the Mood for Love,PG,1H:38M,2000,Drama,Kar-Wai Wong,8.0
+233,The Bandit,Not Rated,2H:8M,1996,Crime,Yavuz Turgul,8.0
+234,Hotel Rwanda,PG-13,2H:1M,2004,Biography,Terry George,8.0
+235,Rush,R,2H:3M,2013,Action,Ron Howard,8.0
+236,Into the Wild,R,2H:28M,2007,Adventure,Sean Penn,8.0
+237,Rocky,PG,2H:0M,1976,Drama,John G. Avildsen,8.0
+238,Amores perros,R,2H:34M,2000,Drama,Alejandro G. Iñárritu,8.0
+239,Nausicaä of the Valley of the Wind,Not Rated,1H:57,1984,Animation,Hayao Miyazaki,8.0
+240,It Happened One Night,Passed,1H:45M,1934,Comedy,Frank Capra,8.0
+241,Fanny and Alexander,R,3H:8M,1982,Drama,Ingmar Bergman,8.0
+242,Before Sunset,R,1H:20M,2004,Drama,Richard Linklater,8.0
+243,Andrei Rublev,R,3H:25M,1966,Biography,Andrei Tarkovsky,8.0
+244,Neon Genesis Evangelion: The End of Evangelion,TV-MA,1H:27M,1997,Animation,Hideaki Anno,8.0
+245,The Battle of Algiers,Not Rated,2H:1M,1966,Drama,Gillo Pontecorvo,8.0
+246,Nights of Cabiria,Not Rated,1H:50M,1957,Drama,Federico Fellini,8.0
+247,The Princess Bride,PG,1H:38M,1987,Adventure,Rob Reiner,8.0
+248,Demon Slayer: Mugen Train,Not Rated,1H:57M,2020,Animation,Koyoharu Gotouge,8.0
+249,Raatchasan,Not Rated,2H:50M,2018,Action,Ram Kumar,8.0
+250,Spider-Man: No Way Home,PG-13,2H:28M,2021,Action,Jon Watts,8.9
+251,The Matrix Resurrections,R,2H:28M,2021,Action,Lana Wachowski,5.8
+252,Don't Look Up,R,2H:18M,2021,Comedy,Adam McKay,7.3
+254,Encanto,PG,1H:42M,2021,Animation,Jared Bush,7.3
+255,Christmas Vacation,PG-13,1H:37M,1989,Comedy,Jeremiah S. Chechik,7.6
+256,The Unforgivable,R,1H:52M,2021,Crime,Nora Fingscheidt,7.2
+257,Love Actually,R,2H:15M,2003,Comedy,Richard Curtis,7.6
+258,The Matrix,R,2H:16M,1999,Action,Lana Wachowski,8.7
+259,Home Alone,Approved,1H:43M,1990,Comedy,Chris Columbus,7.6
+260,Being the Ricardos,R,2H:11M,2021,Biography,Aaron Sorkin,6.7
+263,Resident Evil: Welcome to Raccoon City,R,1H:47M,2021,Action,Johannes Roberts,5.2
+264,Licorice Pizza,R,2H:13M,2021,Comedy,Paul Thomas Anderson,8.2
+265,The Power of the Dog,R,2H:6M,2021,Drama,Jane Campion,7.0
+266,The King's Man,R,2H:10M,2021,Action,Matthew Vaughn,6.8
+267,Pushpa: The Rise - Part 1,Not Rated,2H:59M,2021,Action,Sukumar,8.1
+268,Spider-Man,PG-13,2H:1M,2002,Action,Sam Raimi,7.3
+269,West Side Story,PG-13,2H:36M,2021,Crime,Steven Spielberg,7.9
+270,It's a Wonderful Life,PG,2H:10M,1946,Drama,Frank Capra,8.6
+271,Die Hard,R,2H:12M,1988,Action,John McTiernan,8.2
+272,Spider-Man: Homecoming,PG-13,2H:13M,2017,Action,Jon Watts,7.4
+273,Nightmare Alley,R,2H:30M,2021,Crime,Guillermo del Toro,7.4
+274,How the Grinch Stole Christmas,PG,1H:44M,2000,Comedy,Ron Howard,6.2
+275,Elf,PG,1H:37M,2003,Adventure,Jon Favreau,7.0
+276,Dune,PG-13,2H:35M,2021,Action,Denis Villeneuve,8.2
+278,The Amazing Spider-Man,PG-13,2H:16M,2012,Action,Marc Webb,6.9
+279,White Christmas,Not Rated,2H:0M,1954,Comedy,Michael Curtiz,7.6
+280,No Time to Die,PG-13,2H:43M,2021,Action,Cary Joji Fukunaga,7.4
+281,Spider-Man: Far from Home,PG-13,2H:9M,2019,Action,Jon Watts,7.4
+282,Sing 2,PG,1H:50M,2021,Animation,Garth Jennings,7.6
+283,The Last Duel,R,2H:32M,2021,Action,Ridley Scott,7.5
+284,The Matrix Reloaded,R,2H:18M,2003,Action,Lana Wachowski,7.2
+285,A Boy Called Christmas,PG,1H:46M,2021,Adventure,Gil Kenan,6.7
+286,A Christmas Story,PG,1H:33M,1983,Comedy,Bob Clark,7.9
+287,The French Dispatch,R,1H:47M,2021,Comedy,Wes Anderson,7.4
+288,The Amazing Spider-Man 2,PG-13,2H:22M,2014,Action,Marc Webb,6.6
+289,Venom: Let There Be Carnage,PG-13,1H:37M,2021,Action,Andy Serkis,6.0
+290,House of Gucci,R,2H:38M,2021,Crime,Ridley Scott,6.9
+291,The Matrix Revolutions,R,2H:9M,2003,Action,Lana Wachowski,6.8
+292,Spider-Man 3,PG-13,2H:19M,2007,Action,Sam Raimi,6.2
+293,Spider-Man 2,PG-13,2H:7M,2004,Action,Sam Raimi,7.3
+294,The Santa Clause,PG,1H:37M,1994,Comedy,John Pasquin,6.5
+295,'83,Not Rated,2H:42M,2021,Biography,Sumit Arora,7.3
+296,"tick, tick...BOOM!",PG-13,1H:55M,2021,Biography,Lin-Manuel Miranda,7.6
+297,Shang-Chi and the Legend of the Ten Rings,PG-13,2H:12M,2021,Action,Destin Daniel Cretton,7.5
+298,Home Alone 2: Lost in New York,PG,2H:0M,1992,Adventure,Chris Columbus,6.8
+299,Swan Song,R,1H:52M,2021,Drama,Benjamin Cleary,6.8
+300,The Grinch,PG,1H:25M,2018,Animation,Yarrow Cheney,6.4
+301,Scrooged,PG-13,1H:41M,1988,Comedy,Richard Donner,7.0
+302,The Polar Express,G,1H:40M,2004,Animation,Robert Zemeckis,6.6
+303,The Hand of God,R,2H:10M,2021,Drama,Paolo Sorrentino,7.5
+304,The Tragedy of Macbeth,R,1H:45M,2021,Drama,Joel Coen,7.6
+305,Eternals,PG-13,2H:36M,2021,Action,Chloé Zhao,6.8
+306,Avengers: Endgame,PG-13,3H:1M,2019,Action,Anthony Russo,8.4
+307,Ron's Gone Wrong,PG,1H:47M,2021,Animation,Sarah Smith,7.1
+308,Klaus,PG,1H:36M,2019,Animation,Sergio Pablos,8.2
+309,The Holiday,PG-13,2H:16M,2006,Comedy,Nancy Meyers,6.9
+311,Last Train to Christmas,Not Rated,1H:50M,2021,Comedy,Julian Kemp,6.0
+312,Last Christmas,PG-13,1H:43M,2019,Comedy,Paul Feig,6.5
+313,The Sound of Music,G,2H:52M,1965,Biography,Robert Wise,8.0
+314,Spider-Man: Into the Spider-Verse,PG,1H:57M,2018,Animation,Bob Persichetti,8.4
+315,Red Notice,PG-13,1H:58M,2021,Action,Rawson Marshall Thurber,6.4
+316,Harry Potter and the Sorcerer's Stone,PG,2H:32M,2001,Adventure,Chris Columbus,7.6
+317,Sing,PG,1H:48M,2016,Animation,Garth Jennings,7.1
+318,Single All the Way,TV-PG,1H:39M,2021,Comedy,Michael Mayer,6.2
+319,Mother/Android,R,1H:50M,2021,Drama,Mattson Tomlin,4.5
+321,American Underdog,PG,1H:52M,2021,Biography,Andrew Erwin,7.6
+322,Ghostbusters: Afterlife,PG-13,2H:4M,2021,Adventure,Jason Reitman,7.6
+324,Love Hard,TV-MA,1H:44M,2021,Comedy,Hernan Jimenez,6.3
+325,8-Bit Christmas,PG,1H:37M,2021,Comedy,Michael Dowse,6.7
+326,Atrangi Re,Not Rated,2H:18M,2021,Comedy,Himanshu Sharma,7.0
+327,Jingle All the Way,PG,1H:29M,1996,Adventure,Brian Levant,5.7
+328,Black Widow,PG-13,2H:14M,2021,Action,Cate Shortland,6.7
+329,Free Guy,PG-13,1H:55M,2021,Action,Shawn Levy,7.2
+331,Rumble,PG,1H:44M,2021,Animation,Hamish Grieve,5.8
+332,The Santa Clause 2,G,1H:44M,2002,Comedy,Michael Lembeck,5.7
+333,The Christmas Chronicles,PG,1H:44M,2018,Adventure,Clay Kaytis,7.0
+334,Antlers,R,1H:39M,2021,Drama,Scott Cooper,6.0
+335,Back to the Outback,G,1H:35M,2021,Animation,Harry Cripps,6.6
+336,Home Sweet Home Alone,PG,1H:33M,2021,Action,Dan Mazer,3.6
+337,Wrath of Man,R,1H:59M,2021,Action,Guy Ritchie,7.1
+338,Last Night in Soho,R,1H:56M,2021,Drama,Edgar Wright,7.2
+339,The Shawshank Redemption,R,2H:22M,1994,Drama,Frank Darabont,9.3
+340,The Muppet Christmas Carol,G,1H:25M,1992,Comedy,Brian Henson,7.7
+341,A Christmas Carol,PG,1H:36M,2009,Animation,Robert Zemeckis,6.8
+342,Silent Night,Not Rated,1H:32M,2021,Drama,Camille Griffin,5.7
+343,Office Christmas Party,R,1H:45M,2016,Comedy,Josh Gordon,5.9
+344,C'mon C'mon,R,1H:49M,2021,Drama,Mike Mills,7.8
+345,The Suicide Squad,R,2H:12M,2021,Action,James Gunn,7.3
+347,Four Christmases,PG-13,1H:28M,2008,Comedy,Seth Gordon,5.7
+348,Krampus,PG-13,1H:38M,2015,Comedy,Michael Dougherty,6.2
+349,The Novice,R,1H:34M,2021,Thriller,Lauren Hadaway,6.4
+0,Spider-Man: No Way Home,PG-13,2H:28M,2021,Action,Jon Watts,8.9
+2,Spider-Man: Homecoming,PG-13,2H:13M,2017,Action,Jon Watts,8.9
+3,Spider-Man: Far from Home,PG-13,2H:9M,2019,Action,Jon Watts,8.9
+4,Spider-Man 3,PG-13,2H:19M,2007,Action,Sam Raimi,8.9
+5,Shang-Chi and the Legend of the Ten Rings,PG-13,2H:12M,2021,Action,Destin Daniel Cretton,8.9
+6,Eternals,PG-13,2H:36M,2021,Action,Chloé Zhao,8.9
+7,Avengers: Endgame,PG-13,3H:1M,2019,Action,Anthony Russo,8.9
+8,Black Widow,PG-13,2H:14M,2021,Action,Cate Shortland,8.9
+9,Avengers: Infinity War,PG-13,2H:29M,2018,Action,Anthony Russo,8.9
+10,Doctor Strange,PG-13,1H:55M,2016,Action,Scott Derrickson,8.9
+12,Captain America: Civil War,PG-13,2H:27M,2016,Action,Anthony Russo,8.9
+13,Iron Man,PG-13,2H:6M,2008,Action,Jon Favreau,8.9
+14,The Avengers,PG-13,2H:23M,2012,Action,Joss Whedon,8.9
+15,Thor: Ragnarok,PG-13,2H:10M,2017,Action,Taika Waititi,8.9
+16,Guardians of the Galaxy,PG-13,2H:1M,2014,Action,James Gunn,8.9
+17,Black Panther,PG-13,2H:14M,2018,Action,Ryan Coogler,8.9
+18,Captain Marvel,PG-13,2H:3M,2019,Action,Anna Boden,8.9
+19,Captain America: The First Avenger,PG-13,2H:4M,2011,Action,Joe Johnston,8.9
+20,Avengers: Age of Ultron,PG-13,2H:21M,2015,Action,Joss Whedon,8.9
+21,Iron Man Three,PG-13,2H:10M,2013,Action,Shane Black,8.9
+22,Thor,PG-13,1H:55M,2011,Action,Kenneth Branagh,8.9
+23,Guardians of the Galaxy Vol. 2,PG-13,2H:16M,207,Action,James Gunn,8.9
+24,Iron Man 2,PG-13,2H:4M,2010,Action,Jon Favreau,8.9
+25,Captain America: The Winter Soldier,PG-13,2H:16M,2014,Action,Anthony Russo,8.9
+26,The Incredible Hulk,PG-13,1H:52M,2008,Action,Louis Leterrier,8.9
+27,Ant-Man,PG-13,1H:57M,2015,Action,Peyton Reed,8.9
